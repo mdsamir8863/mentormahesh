@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1153059e.css",
+    "main.js": "/static/js/main.190af3e1.js",
+    "static/media/music1.png": "/static/media/music1.948eaef58daef8c4c38b.png",
+    "static/media/footer.png": "/static/media/footer.8d7b13bd9636dce326f5.png",
+    "static/media/mentoons_logo.png": "/static/media/mentoons_logo.4c3e258f02badd620fcb.png",
+    "static/media/find_me_here.png": "/static/media/find_me_here.af618ecbc70d2e96d226.png",
+    "static/media/youtube1.png": "/static/media/youtube1.816fa9f54c9c508eb830.png",
+    "static/media/Logo1.png": "/static/media/Logo1.dc3dc947f482ebc53b39.png",
+    "static/media/workk.png": "/static/media/workk.6cdf3edf5dda3ffa12ed.png",
+    "static/media/mentor_mahesh.png": "/static/media/mentor_mahesh.ed355cd7c0c314075006.png",
+    "static/media/work.png": "/static/media/work.4eb0f561796c711b1c38.png",
+    "static/media/music.png": "/static/media/music.73b84b7d8d87d8a6ae7d.png",
+    "static/media/propelling.png": "/static/media/propelling.583847401ef4fd275ff1.png",
+    "static/media/life.png": "/static/media/life.17d0c646d66bd6055dcd.png",
+    "static/media/phone.png": "/static/media/phone.2acb267f9e53e6152570.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "index.html": "/index.html",
+    "main.1153059e.css.map": "/static/css/main.1153059e.css.map",
+    "main.190af3e1.js.map": "/static/js/main.190af3e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1153059e.css",
+    "static/js/main.190af3e1.js"
+  ]
+}
